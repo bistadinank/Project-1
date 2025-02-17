@@ -1,4 +1,7 @@
-# Project-1
+# Project-1 
+Ahmed Rageeb Ahsan and Dinank Bista
+Project Group: 7
+
 Delphi using Pascal Grammar and Java Interpreter
 
 Delphi Language Interpreter - README
